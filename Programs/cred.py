@@ -1,0 +1,5 @@
+print("1597 3.0 MACINTOSH")
+print("Built By Ryland Bencharski")
+print("Based Of Example Code On A Website")
+print("2025 Mailbox CE, A Divison Of Skip Multimedia Incorperated")
+print("                                    ")
